@@ -1,4 +1,0 @@
-[build]
-  base = "animation_watch"
-  command = "npm run build"
-  publish = ".next"
